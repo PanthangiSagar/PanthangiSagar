@@ -1,4 +1,4 @@
-# Hi there I am Sagar 👋
+# Hi there I am Sagar Panthangi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-panthangi-914706222)
 [![Naukri](https://img.shields.io/badge/Naukri-2C8EBB?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
