@@ -10,9 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miles_andModules/)
 
 
-
-
-
 ---
 
 ✨ Welcome to my tech world! ✨  
@@ -21,10 +18,7 @@
 💡 Passionate about Business Central,Navision Functional and Technical  AL Development, and solving real-world ERP challenges.  
 📊 Exploring Power BI, and Microsoft technologies to empower businesses.  
 🌍 "Learning never stops, and together, we can achieve more!"  
-
 ---
-
 💬 Let’s connect, grow, and innovate together! 🌐  
 📌 Don’t forget to check out my repositories, blogs, and projects below! 🚀
-
 📌 Don’t forget to check out my repositories, blogs, and projects below! 🚀
