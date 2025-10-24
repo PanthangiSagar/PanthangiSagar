@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-panthangi-914706222)
 [![Naukri](https://img.shields.io/badge/Naukri-2C8EBB?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Microsoft Certifications](https://img.shields.io/badge/Microsoft%20Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/sagarpanthangi-3799/)
-![Business Central](https://img.shields.io/badge/Dynamics%20365%20BC-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Business Central](https://img.shields.io/badge/Dynamics%20365%20BC-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)https://learn.microsoft.com/en-us/training/browse/?products=dynamics-365&filter-products=bus
 ![AL Language](https://img.shields.io/badge/AL%20Language-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
