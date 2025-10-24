@@ -23,7 +23,6 @@
 🌍 "Learning never stops, and together, we can achieve more!"  
 
 ---
-___
 
 💬 Let’s connect, grow, and innovate together! 🌐 
 
